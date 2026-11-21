@@ -37,4 +37,4 @@ builder = ComputerBuilder()
 pc = builder.set_cpu("Intel i5").set_ram(16).set_storage(512).build()
 print(pc)
 ```
-![01](https://github.com/2BOCXOD2/Tehnologii_programmirovaniya_02_01/blob/main/images/lab_02/Тест.PNG)
+![01](https://github.com/2BOCXOD2/Tehnologii_programmirovaniya_02_01/blob/main/images/lab_03/Снимок.PNG)
